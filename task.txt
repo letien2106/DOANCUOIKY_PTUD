@@ -1,0 +1,2 @@
+team front end: code giao diện
+team back end: kết nối với firebase và xử lý sự kiện
